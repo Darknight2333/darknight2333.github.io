@@ -4,18 +4,24 @@
 
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-15T19:15:48+08:00</lastmod>
+    <lastmod>2025-07-15T20:36:05+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
-    <lastmod>2025-07-15T19:15:48+08:00</lastmod>
+    <loc>http://localhost:1313/posts/%E5%BE%B7%E6%B3%95%E4%B8%96%E4%BB%87/</loc>
+    <lastmod>2025-07-15T20:36:05+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-15T20:36:05+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2025-07-15T19:15:48+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

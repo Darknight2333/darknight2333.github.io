@@ -3,25 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://darknight2333.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-23T11:33:14+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E6%94%98%E5%A4%B7%E5%8F%99%E4%BA%8B1/</loc>
+    <lastmod>2025-10-23T11:33:14+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-23T11:33:14+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E5%BE%B7%E6%B3%95%E4%B8%96%E4%BB%87/</loc>
     <lastmod>2025-07-15T20:36:05+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://darknight2333.github.io/posts/%E5%BE%B7%E6%B3%95%E4%B8%96%E4%BB%87/</loc>
-    <lastmod>2025-07-15T20:36:05+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darknight2333.github.io/</loc>
-    <lastmod>2025-07-15T20:36:05+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darknight2333.github.io/posts/hello-world/</loc>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2025-07-15T19:15:48+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

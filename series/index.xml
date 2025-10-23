@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 萌新dark</title>
-    <link>https://darknight2333.github.io/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on 萌新dark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>forsterjerome58@gmail.com (萌新dark)</managingEditor>
     <webMaster>forsterjerome58@gmail.com (萌新dark)</webMaster>
     <copyright>© 2025 萌新dark</copyright>
-    <atom:link href="https://darknight2333.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

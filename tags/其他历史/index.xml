@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>其他历史 on 萌新dark</title>
-    <link>https://darknight2333.github.io/tags/%E5%85%B6%E4%BB%96%E5%8E%86%E5%8F%B2/</link>
+    <link>http://localhost:1313/tags/%E5%85%B6%E4%BB%96%E5%8E%86%E5%8F%B2/</link>
     <description>Recent content in 其他历史 on 萌新dark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>forsterjerome58@gmail.com (萌新dark)</managingEditor>
     <webMaster>forsterjerome58@gmail.com (萌新dark)</webMaster>
     <copyright>© 2025 萌新dark</copyright>
-    <lastBuildDate>Tue, 15 Jul 2025 20:36:05 +0800</lastBuildDate><atom:link href="https://darknight2333.github.io/tags/%E5%85%B6%E4%BB%96%E5%8E%86%E5%8F%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jul 2025 20:36:05 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%85%B6%E4%BB%96%E5%8E%86%E5%8F%B2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>关于德法世仇与记忆之场的写作想法整理</title>
-      <link>https://darknight2333.github.io/posts/%E5%BE%B7%E6%B3%95%E4%B8%96%E4%BB%87/</link>
+      <link>http://localhost:1313/posts/%E5%BE%B7%E6%B3%95%E4%B8%96%E4%BB%87/</link>
       <pubDate>Tue, 15 Jul 2025 20:36:05 +0800</pubDate>
       <author>forsterjerome58@gmail.com (萌新dark)</author>
-      <guid>https://darknight2333.github.io/posts/%E5%BE%B7%E6%B3%95%E4%B8%96%E4%BB%87/</guid>
+      <guid>http://localhost:1313/posts/%E5%BE%B7%E6%B3%95%E4%B8%96%E4%BB%87/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://darknight2333.github.io/posts/%E5%BE%B7%E6%B3%95%E4%B8%96%E4%BB%87/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/%E5%BE%B7%E6%B3%95%E4%B8%96%E4%BB%87/featured.jpg" />
     </item>
     
   </channel>

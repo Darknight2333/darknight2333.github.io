@@ -4,18 +4,24 @@
 
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-23T11:33:14+08:00</lastmod>
+    <lastmod>2026-06-21T16:58:39+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/%E6%94%98%E5%A4%B7%E5%8F%99%E4%BA%8B1/</loc>
-    <lastmod>2025-10-23T11:33:14+08:00</lastmod>
+    <loc>http://localhost:1313/posts/%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/</loc>
+    <lastmod>2026-06-21T16:58:39+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-21T16:58:39+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E6%94%98%E5%A4%B7%E5%8F%99%E4%BA%8B1/</loc>
     <lastmod>2025-10-23T11:33:14+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
